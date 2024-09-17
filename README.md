@@ -18,7 +18,7 @@ I'm a passionate developer diving deep into the world of automation, APIs, and m
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat)
 
 ## :chart_with_upwards_trend: GitHub Stats
-![Saqo1995s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saqo1995s&show_icons=true&theme=dark&count_private=true)
+![Saqo1995s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saqo1995s&show_icons=true&theme=dark&count_private=true)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saqo1995s&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :trophy: Trophy
