@@ -36,3 +36,5 @@ I'm a passionate developer diving deep into the world of automation, APIs, and m
 ## 🌍 Let’s Connect!
 - 📧 **Email**: [saqo1995s@gmail.com](mailto:saqo1995s@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/sargis-tovmasyan/](https://www.linkedin.com/in/sargis-tovmasyan/)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/saqo1995s)
