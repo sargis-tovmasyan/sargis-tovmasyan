@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Saqo1995s
+# Hey there! 👋 I'm Sargis
 
 I'm a passionate developer diving deep into the world of automation, APIs, and modern web technologies. Welcome to my digital playground!
 
@@ -8,7 +8,7 @@ I'm a passionate developer diving deep into the world of automation, APIs, and m
 - 🎯 **Problem Solver**: Tackling API integration challenges like a pro, and much more!.
 - 🎓 **Learning**: Fast learner!
 
-## 🛠️ My Arsenal
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
