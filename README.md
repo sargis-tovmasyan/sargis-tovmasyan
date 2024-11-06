@@ -27,11 +27,11 @@ I'm a passionate developer diving deep into the world of automation, APIs, and m
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
 ## :chart_with_upwards_trend: GitHub Stats
-![Saqo1995s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saqo1995s&show_icons=true&theme=dark&count_private=true)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saqo1995s&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![sargis-tovmasyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sargis-tovmasyan&show_icons=true&theme=dark&count_private=true)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sargis-tovmasyan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :trophy: Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saqo1995s&theme=onedark)](https://github.com/Saqo1995s)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sargis-tovmasyan&theme=onedark)](https://github.com/sargis-tovmasyan)
 
 ## 📈 My Projects
 - **Automate/Automate Desktop**
@@ -47,7 +47,7 @@ I'm a passionate developer diving deep into the world of automation, APIs, and m
   Testing different types of batteries, battery capacity testing, automated UI testing, and more to speed up the testing process and rule out errors.
 
 ## 🌍 Let’s Connect!
-- 📧 **Email**: [saqo1995s@gmail.com](mailto:saqo1995s@gmail.com)
+- 📧 **Email**: [sargis-tovmasyan@gmail.com](mailto:sargis-tovmasyan@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/sargis-tovmasyan/](https://www.linkedin.com/in/sargis-tovmasyan/)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/saqo1995s)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/sargis-tovmasyan)
