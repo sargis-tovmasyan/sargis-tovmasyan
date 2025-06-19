@@ -50,4 +50,4 @@ I'm a passionate developer diving deep into the world of automation, APIs, and m
 - 📧 **Email**: [sargis-tovmasyan@gmail.com](mailto:sargis-tovmasyan@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/sargis-tovmasyan/](https://www.linkedin.com/in/sargis-tovmasyan/)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](coff.ee/saqo1995s)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]([coff.ee/saqo1995s](https://coff.ee/saqo1995s))
