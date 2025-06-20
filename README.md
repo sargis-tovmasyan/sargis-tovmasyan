@@ -5,7 +5,7 @@ I'm a passionate developer diving deep into the world of automation, APIs, and m
 ## 💡 About me
 - 🖥️ Proficient in programming languages: C++, C#, JavaScript, Python  
 - 🛠️ Experienced with frameworks: .NET, Qt, ASP.NET (MVC), VCL, Xamarin, React  
-- 🗄️ Worked with databases: MySQL, SQLite, SQL Server, NoSQL databases  
+- 🗄️ Worked with databases: MySQL, SQLite, SQL Server, Postgres and other NoSQL databases  
 - 💾 Skilled in database frameworks: ADO.NET, OLE DB, Entity Framework  
 - 💬 Strong communication skills for discussions with customers and stakeholders  
 - 🤝 Effective team player, able to collaborate and contribute to group success  
