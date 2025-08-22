@@ -47,7 +47,7 @@ I'm a passionate developer diving deep into the world of automation, APIs, and m
   Testing different types of batteries, battery capacity testing, automated UI testing, and more to speed up the testing process and rule out errors.
 
 ## 🌍 Let’s Connect!
-- 📧 **Email**: [sargis-tovmasyan@gmail.com](mailto:sargis-tovmasyan@gmail.com)
+- 📧 **Email**: [tovmasyan.sargis@outlook.com](mailto:tovmasyan.sargis@outlook.com)
 - 💼 **LinkedIn**: [linkedin.com/in/sargis-tovmasyan/](https://www.linkedin.com/in/sargis-tovmasyan/)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://coff.ee/saqo1995s)
