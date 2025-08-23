@@ -31,7 +31,7 @@ I'm a passionate developer diving deep into the world of automation, APIs, and m
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sargis-tovmasyan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :trophy: Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=sargis-tovmasyan&theme=onedark)](https://github.com/sargis-tovmasyan)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sargis-tovmasyan&theme=onedark&rank=-B)](https://github.com/sargis-tovmasyan)
 
 ## 📈 My Projects
 - **Automate/Automate Desktop**
