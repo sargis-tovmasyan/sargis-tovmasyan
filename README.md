@@ -128,10 +128,10 @@ public class SargisTovmasyan : Developer
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **🤖 Automate/Automate Desktop** | Enterprise RPA solution transforming business processes | `.NET` `WPF` `WCF` `DevExpress` `MVVM` `C#` `Automation` |
+| **🤖 Fortra's Automate/Automate Desktop** | Enterprise RPA solution transforming business processes | `.NET` `WPF` `WCF` `DevExpress` `MVVM` `C#` `Automation` |
 | **⚙️ HGG ProCAM Lite** | 3D cutting visualization for manufacturing | `C++` `Qt` `3D Graphics` `CAD` |
-| **📱 Mobile Sales App** | Full-featured e-commerce mobile solution | `MAUI` `C#` `.NET` |
-| **🔋 Battery Testing Tool** | Automated vehicle battery testing system | `C#` `WPF` `.NET` `Hardware Integration` |
+| **📱 Dowell - Mobile Sales App (Not released)** | Full-featured e-commerce mobile solution | `MAUI` `C#` `.NET` |
+| **🔋 Midtronics - Battery Testing Tool(Company internal tool)** | Automated vehicle battery testing system | `C#` `WPF` `.NET` `Hardware Integration` |
 
 </div>
 
