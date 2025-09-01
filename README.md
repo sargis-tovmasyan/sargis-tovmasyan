@@ -23,12 +23,13 @@
 ```csharp
 public class SargisTovmasyan : Developer
 {
-    public string[] Languages => new[] { "C#", "C++", "JavaScript", "Python", "TypeScript", "SQL" };
+    public string[] Languages => new[] { "C#", "C++", "JavaScript/TypeScript", "Python" };
     public string[] Frameworks => new[] { ".NET", "ASP.NET MVC", "Next.js", "React", "Xamarin", "Strapi", "Node.js" };
     public string[] Databases => new[] { "SQL Server", "MySQL", "PostgreSQL", "SQLite", "MongoDB", "Redis" };
     public string[] BackendTech => new[] { "gRPC", "Hangfire", "FluentAPI", "OpenTelemetry", "SignalR", "Web API" };
-    public string[] Automation => new[] { "Cron Jobs", "Background Services", "RPA", "Windows Services" };
-    public string[] Cloud => new[] { "Azure", "Docker", "IIS", "Git", "CI/CD" };
+    public string[] Automation => new[] { "Cron Jobs", "Background Services", "RPA", "Windows Services", "Selenium", "Playwright" };
+    public string[] CI/CD => new[] { "Azure Devops", "Jenkins", "Github Actions" };
+    public string[] Cloud => new[] { "Azure", "AWS", "Docker", "IIS", "Git", "CI/CD" };
     public string CurrentFocus => "Microservices & Modern Web Architecture";
     public bool OpenToWork => true;
     public string[] Residency => new[] { "USA", "Armenia" };
@@ -39,13 +40,13 @@ public class SargisTovmasyan : Developer
 <summary><b>🧠 Core Competencies</b></summary>
 <br>
 
-- 🎯 **Backend Development**: Advanced .NET & ASP.NET MVC applications
-- 🔄 **Automation**: RPA solutions, Hangfire jobs, and .NET cron jobs
+- 🎯 **Backend Development**: Advanced .NET & ASP.NET MVC applications, Serverless functions
+- 🔄 **Automation**: RPA solutions, Hangfire jobs, .NET cron jobs, Selenium, Playwright
 - 🌐 **Full-Stack**: Next.js, React, and ASP.NET MVC applications
-- 🏗️ **Architecture**: Microservices with gRPC, Clean Architecture, and Vertical Slice
+- 🏗️ **Architecture**: Microservices with gRPC, Clean Architecture, Vertical Slice Architecture
 - 📊 **Database Design**: Efficient data architecture and optimization
 - 🔍 **Observability**: OpenTelemetry monitoring and performance optimization
-- 👥 **Leadership**: Team collaboration, mentoring, and stakeholder communication
+- 👥 **Communication**: Team collaboration, mentoring, and stakeholder communication
 
 </details>
 
